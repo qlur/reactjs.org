@@ -22,7 +22,7 @@ There is also a new [short syntax](#short-syntax) for declaring them.
 
 ## Motivation {#motivation}
 
-A common pattern is for a component to return a list of children. Take this example React snippet:
+A common pattern is for a component to return a list of children. Take example of this React snippet:
 
 ```jsx
 class Table extends React.Component {
